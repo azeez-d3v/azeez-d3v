@@ -1,20 +1,24 @@
-align to center the socials
+# 👋 Hi there, I'm Aziz
 
-👋 Hi there, I'm Aziz
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7¢er=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
+
+<br>
+
 ## 🚀 About Me
-- 🔭 I'm currently working on [Project Name]
+
 - 🌱 I'm currently learning [Technology/Skill]
-- 👯 I'm looking to collaborate on interesting open source projects
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: aziz.saricula@gmail.com
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azeez-d3v&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azeez-d3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -28,13 +32,15 @@ align to center the socials
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+    <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
+
+<br>
 
 <div align="center">
   <a href="https://www.instagram.com/_yours.aziz" target="_blank">
@@ -54,7 +60,8 @@ align to center the socials
   </a>
 </div>
 
-<br clear="both">
+<br>
 
+<br clear="both">
 
 ![alt text](https://github.com/azeez-d3v/azeez-d3v/blob/output/ocean.gif)
