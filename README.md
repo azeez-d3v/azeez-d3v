@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning [Technology/Skill]
+- 🌱 I'm currently learning Web Technologies
 - 📫 How to reach me: aziz.saricula@gmail.com
 
 <br>
