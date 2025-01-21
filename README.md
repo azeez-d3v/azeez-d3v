@@ -67,6 +67,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/azeez-d3v/azeez-d3v/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/azeez-d3v/azeez-d3v/blob/output/ocean.svg)
 
 ###
