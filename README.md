@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://azeezd3v.vercel.app?user=azeez-d3v&theme=dark&border_radius=10" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azeez-d3vlangs_count=5&theme=dark&border_radius=10" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azeez-d3v&langs_count=5&theme=dark&border_radius=10" height="150" alt="languages graph"  />
 </div>
 
 <br>
